@@ -1,28 +1,16 @@
 .section {
     padding: 80px 0;
     text-align: center;
-    background-color: #f2f2f2;
-
-
 }
 
+body{
+    background: linear-gradient(
+      120deg,
+      rgb(251, 175, 208) 0%,  rgb(150, 194, 244) 
+    100%);
+}
+.video{box-shadow: 10px 7px 7px 7px rgba(245, 245, 245, 0.694);}
 
-
-body {
-    margin: 0;
-    padding: 0;
-    height: 200vh; /* Set the height to be taller than the viewport */
-    background: rgb(238,174,202);
-background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
-  }
-
-
-  .section{  background: rgb(238,174,202);
-background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
-
-  }
-  th{background: rgb(238,174,202);
-background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);}
   .content {
     position: fixed;
     top: 0;
@@ -40,7 +28,6 @@ p,ul,ol{font-size: 23px;}
 
 section h1 {
     font-size: 24px;
-    color: #333;
 }
 
 
