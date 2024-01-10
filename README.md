@@ -1,5 +1,5 @@
 # Sustainable Agriculture Planner
-
+![Screenshot](Screenshot.png)
 
 ## Introduction
 The Sustainable Agriculture Planner is a web-based tool designed to support sustainable farming practices. It provides a comprehensive set of features to assist farmers and stakeholders in planning, managing resources efficiently, and promoting sustainable agricultural development.
